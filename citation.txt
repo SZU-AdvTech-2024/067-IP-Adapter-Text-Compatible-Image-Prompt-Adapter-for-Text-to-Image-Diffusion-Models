@@ -1,0 +1,6 @@
+@article{REPO067,
+    author = "Ye, Hu and Zhang, Jun and Liu, Sibo and Han, Xiao and Yang, Wei",
+    booktitle = "arXiv preprint arxiv:2308.06721",
+    title = "{IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models}",
+    year = "2023"
+}
